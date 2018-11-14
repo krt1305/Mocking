@@ -1,0 +1,11 @@
+
+rsquid:S001000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Áª©ÿÿÿÿÿ8¤÷•÷î,
+bsquid:S1854E"DRemove this useless assignment to local variable "placeOrderResult".(¬Øú×8¹¬ï,
+rsquid:S00100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àë‚Êúÿÿÿÿ8•‹•öî,
+Xsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êX8«¤çÃï,
+Dsquid:S2129%"!Remove this "Integer" constructor(Ä®££ÿÿÿÿÿ8Éïîöî,
+Dsquid:S21294"!Remove this "Integer" constructor(øòïáşÿÿÿÿ8¤÷•÷î,
+Ssquid:S1481E"5Remove this unused "placeOrderResult" local variable.(¬Øú×8¹¬ï,
+msquid:S00100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(· Ûí8â§ï,
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ìéÃï,
+1squid:S1220""Move this file to a named package.
